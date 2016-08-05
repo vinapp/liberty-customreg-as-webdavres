@@ -1,0 +1,8 @@
+Subsystem-ManifestVersion: 1.0
+IBM-Feature-Version: 2
+IBM-ShortName: CustUserRegistryWebDavFeature
+Subsystem-SymbolicName: CustUserRegistryWebDavFeature;visibility:=public
+Subsystem-Version: 1.0.0.201607301518
+Subsystem-Type: osgi.subsystem.feature
+Subsystem-Content: CustUserRegistryWebDav;version="1.0.0"
+Manifest-Version: 1.0
